@@ -12,6 +12,11 @@ streamlit 1.32.0
 <br>
 <br>
 
+# Code
+# 코드 구성
+![image](https://github.com/dlwnsgur9242/Image_classification_artificial-intelligence_web/assets/90494150/226ec080-969e-4105-a4bf-fbefd4a3e0c5)
+<br>
+<br>
 # Display
 ## 강아지 사진
 ![image](https://github.com/dlwnsgur9242/Image_classification_artificial-intelligence_web/assets/90494150/8b874932-511d-4059-8b30-25392196e4a9)
@@ -55,6 +60,4 @@ streamlit 1.32.0
 <br>
 <br>
 
-# Code
-![image](https://github.com/dlwnsgur9242/Image_classification_artificial-intelligence_web/assets/90494150/226ec080-969e-4105-a4bf-fbefd4a3e0c5)
 
