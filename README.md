@@ -1,6 +1,13 @@
 # Image_classification_artificial-intelligence_web
+### Image Classification Artificial Intelligence Web
 <br>
 <br>
+
+# Tech Stack
+<pre>
+Colab 2.0.0
+streamlit 1.32.0
+</pre>
 
 ## 결과 - 1
 ![image](https://github.com/dlwnsgur9242/Image_classification_artificial-intelligence_web/assets/90494150/8b874932-511d-4059-8b30-25392196e4a9)
