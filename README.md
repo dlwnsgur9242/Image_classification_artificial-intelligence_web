@@ -14,7 +14,7 @@ streamlit 1.32.0
 
 # Code
 # 코드 구성
-![image](https://github.com/dlwnsgur9242/Image_classification_artificial-intelligence_web/assets/90494150/226ec080-969e-4105-a4bf-fbefd4a3e0c5)
+![image](https://github.com/dlwnsgur9242/Image_classification_artificial-intelligence_web/assets/90494150/b8420731-8abe-4f2f-a7ee-434037161818)
 <br>
 <br>
 # Display
