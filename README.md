@@ -18,6 +18,11 @@ streamlit 1.32.0
 <br>
 <br>
 # Display
+### 화면 구성
+![image](https://github.com/dlwnsgur9242/Image_classification_artificial-intelligence_web/assets/90494150/4bdcdb7f-8678-491d-97b5-aaa97f32db7f)
+<br>
+<br>
+
 ### 강아지 사진
 ![image](https://github.com/dlwnsgur9242/Image_classification_artificial-intelligence_web/assets/90494150/8b874932-511d-4059-8b30-25392196e4a9)
 <br>
