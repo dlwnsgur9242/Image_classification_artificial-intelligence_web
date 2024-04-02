@@ -8,6 +8,10 @@
 conda 23.7.4
 jupyter notebook 6.5.4
 streamlit 1.32.0
+ngrok
+PIL
+TensorFlow
+numpy
 </pre>
 <br>
 <br>
